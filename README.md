@@ -9,7 +9,7 @@ See the readme.txt file in each subfolder
 
 **Robocopy_Example1**<br />
 - Script to backup files and folders used in a typical development enviroment.
-Uses
+- Uses Windows built in robocopy and wmic programs.
 
 ## Usage
 
